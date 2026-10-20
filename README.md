@@ -1,4 +1,8 @@
 ### Hai semua! Saya Izzean Zulaikha 👋
+<p align="center">
+  <img src="IMG-20260915-WA0050_Nero_AI_Image_Upscaler_Photo_Face (1)" alt="Izzean Zulaikha" width="150"><br>
+  <small><em>"The moment you think of giving up, think of the reason why you held on so long."</em></small>
+</p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/izzean-zulaikha-binti-norazlee-310b09442/" target="_blank">
