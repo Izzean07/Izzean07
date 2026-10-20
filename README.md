@@ -1,6 +1,9 @@
-### Hai semua! Saya Izzean Zulaikha 👋
+# Hai semua! Saya Izzean Zulaikha 👋
 <p align="center">
   <img src="IMG-20260915-WA0050_Nero_AI_Image_Upscaler_Photo_Face (1).jpeg" alt="Izzean Zulaikha" width="150"><br>
+<br><b>✨ Student Bachelor of Computer Science (Data Engineering) with Honours✨</b><br>
+
+<p align="center">  
   <small><em>"The moment you think of giving up, think of the reason why you held on so long."</em></small>
 </p>
 
@@ -17,14 +20,14 @@
 
 ### 🎓 Mengenai Saya
 - 🎓 Pelajar / Alumni di **Universiti Teknologi Malaysia (UTM)**.
-- 🌱 Saya sedang menguasai kemahiran asas **Git & GitHub** serta pembangunan perisian.
-- 💡 Berminat untuk mempelajari teknologi baru dan bekerjasama dalam projek open-source.
+- 🌱 Saya sedang menguasai kemahiran asas **Git & GitHub** dengan teliti.
+- 💡 Berminat untuk mempelajari coding dengan lancar dan bekerjasama dalam projek .
 - 📫 Hubungi saya terus di: [izzeanzulaikha@graduate.utm.my](mailto:izzeanzulaikha@graduate.utm.my) atau di [LinkedIn](https://www.linkedin.com/in/izzean-zulaikha-binti-norazlee-310b09442/).
 
 ---
 
 ### 🛠️ Bahasa & Alatan Pengaturcaraan
-* **Bahasa & Pengaturcaraan:** Python, JavaScript, HTML, CSS *(kemaskini mengikut bahasa yang anda pelajari)*
+* **Bahasa & Pengaturcaraan:** C++, Phython(Basic)
 * **Alatan:** Git, GitHub, VS Code
 
 ---
