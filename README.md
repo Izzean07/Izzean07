@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, My name is Izzean Zulaikha Binti Norazlee and now I am a first year student studying at Universiti Teknologi Malaysia in Bachelor of Computer Science (Data Engineering) with Honours.
 
 <!--
 **Izzean07/Izzean07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
