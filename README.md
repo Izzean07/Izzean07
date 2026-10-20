@@ -26,10 +26,10 @@
 ---
 
 ### 📊 Statistik GitHub
-*(Nota: Tukar `USERNAME_ANDA` di bawah kepada username sebenar akaun GitHub anda)*
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight" alt="Izzean's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Izzean07&show_icons=true&theme=tokyonight" alt="Izzean's GitHub Stats" />
 </p>
 
 <!--
