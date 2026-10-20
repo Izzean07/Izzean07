@@ -1,6 +1,6 @@
 ### Hai semua! Saya Izzean Zulaikha 👋
 <p align="center">
-  <img src="IMG-20260915-WA0050_Nero_AI_Image_Upscaler_Photo_Face (1)" alt="Izzean Zulaikha" width="150"><br>
+  <img src="IMG-20260915-WA0050_Nero_AI_Image_Upscaler_Photo_Face (1).jpeg" alt="Izzean Zulaikha" width="150"><br>
   <small><em>"The moment you think of giving up, think of the reason why you held on so long."</em></small>
 </p>
 
